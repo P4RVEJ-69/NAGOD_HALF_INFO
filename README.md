@@ -1,0 +1,2 @@
+# NAGOD_HALF_INFO
+NAGOD_HALF_INFO termux tools
